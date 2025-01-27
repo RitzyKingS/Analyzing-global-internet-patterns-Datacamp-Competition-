@@ -1,7 +1,3 @@
-Here's the updated version of your post for GitHub, with placeholders for the code, dashboard link, and internet usage chart image:
-
----
-
 🚀 **Completed the DataCamp Competition: Data Visualization Dashboard for Internet Usage Trends** 🌐📊
 
 🔗 Check out the interactive dashboard here: [https://lookerstudio.google.com/u/0/reporting/7c0563c6-172a-40ea-b11a-087340488806/page/r75dE]

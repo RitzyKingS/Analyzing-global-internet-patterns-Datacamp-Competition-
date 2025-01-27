@@ -1,6 +1,11 @@
+Here's the updated version of your post for GitHub, with placeholders for the code, dashboard link, and internet usage chart image:
+
+---
+
 🚀 **Completed the DataCamp Competition: Data Visualization Dashboard for Internet Usage Trends** 🌐📊
 
-🔗 Check out the interactive dashboard here: [https://lookerstudio.google.com/u/0/reporting/7c0563c6-172a-40ea-b11a-087340488806]
+🔗 Check out the interactive dashboard here: [https://lookerstudio.google.com/u/0/reporting/7c0563c6-172a-40ea-b11a-087340488806/page/r75dE]
+- ![Interactive Dashboard](Insert Dashboard Image Link)
 
 I’m excited to share that I’ve successfully completed the DataCamp Competition focused on analyzing and visualizing global internet usage trends from 2000-2023 🌍💻. As part of the challenge, I built an interactive Dashboard that tracks the **Year-over-Year (YoY) Changes**, **Geographical Distribution**, and **Growth Rate** of internet usage across countries. The solution provides meaningful insights into how internet penetration has evolved over time 🌐📈.
 
@@ -10,8 +15,30 @@ I’m excited to share that I’ve successfully completed the DataCamp Competiti
 - **Geographical Distribution** - Displays internet usage by country in 2023.
 - **Year-over-Year (YoY) Change** - Highlights which countries had the largest growth in internet usage.
 
-📸 **Dashboard Visualizations:**
-- ![Dashboard Image 1](Insert Image Link)
+### 📊 **Code Snippet**:
+Here’s a glimpse of how the code looks for building this visualization:
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load and preprocess the data
+data = pd.read_csv('internet_usage_data.csv')
+
+# Plotting the growth rate
+plt.figure(figsize=(10,6))
+sns.lineplot(x=data['Year'], y=data['Global Growth Rate'])
+plt.title('Global Internet Usage Growth Rate (2000-2023)', fontsize=16)
+plt.xlabel('Year', fontsize=12)
+plt.ylabel('Growth Rate (%)', fontsize=12)
+plt.show()
+```
+
+### 📸 **Dashboard Visualizations:**
+
+- ![Internet Usage Trend](Insert Internet Usage Chart Image Link)
+- ![Interactive Dashboard](Insert Dashboard Image Link)
 
 🔗 **Solution provided via DataCamp challenge.**
 
@@ -26,4 +53,10 @@ I'm thrilled to have had the opportunity to work on this project and improve my 
 
 ---
 
-Make sure to replace the placeholders like "Insert Dashboard Link" and "Insert Image Link" with the actual URL or paths for your dashboard and images.
+Make sure to replace the placeholders like:
+
+- **Insert Dashboard Link** with the actual URL of your interactive dashboard.
+- **Insert Internet Usage Chart Image Link** with the link to the internet usage trend chart image.
+- **Insert Dashboard Image Link** with the link to the screenshot or image of your interactive dashboard.
+
+Let me know if you need further customization!

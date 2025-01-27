@@ -37,8 +37,8 @@ plt.show()
 
 ### 📸 **Dashboard Visualizations:**
 
-- ![Internet Usage Trend](Insert Internet Usage Chart Image Link)
-- ![Interactive Dashboard](Insert Dashboard Image Link)
+- ![Internet Usage Trend](https://github.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/tree/main/Images/Dashboard-Image.png)
+- ![Interactive Dashboard](https://github.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/tree/main/Images/internet_usage_growth.png)
 
 🔗 **Solution provided via DataCamp challenge.**
 
@@ -52,11 +52,3 @@ I'm thrilled to have had the opportunity to work on this project and improve my 
 💬 Feel free to connect or reach out if you’re interested in learning more or discussing data-driven insights!
 
 ---
-
-Make sure to replace the placeholders like:
-
-- **Insert Dashboard Link** with the actual URL of your interactive dashboard.
-- **Insert Internet Usage Chart Image Link** with the link to the internet usage trend chart image.
-- **Insert Dashboard Image Link** with the link to the screenshot or image of your interactive dashboard.
-
-Let me know if you need further customization!

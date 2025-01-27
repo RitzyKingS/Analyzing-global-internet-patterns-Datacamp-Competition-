@@ -5,7 +5,7 @@ Here's the updated version of your post for GitHub, with placeholders for the co
 🚀 **Completed the DataCamp Competition: Data Visualization Dashboard for Internet Usage Trends** 🌐📊
 
 🔗 Check out the interactive dashboard here: [https://lookerstudio.google.com/u/0/reporting/7c0563c6-172a-40ea-b11a-087340488806/page/r75dE]
-- ![Interactive Dashboard](https://github.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/tree/main/Images/Dashboard-Image.png)
+![Interactive Dashboard](https://raw.githubusercontent.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/main/Images/Dashboard-Image.png)
 
 I’m excited to share that I’ve successfully completed the DataCamp Competition focused on analyzing and visualizing global internet usage trends from 2000-2023 🌍💻. As part of the challenge, I built an interactive Dashboard that tracks the **Year-over-Year (YoY) Changes**, **Geographical Distribution**, and **Growth Rate** of internet usage across countries. The solution provides meaningful insights into how internet penetration has evolved over time 🌐📈.
 

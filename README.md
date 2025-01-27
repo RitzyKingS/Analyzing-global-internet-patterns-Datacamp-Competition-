@@ -37,8 +37,8 @@ plt.show()
 
 ### 📸 **Dashboard Visualizations:**
 
-- ![Internet Usage Trend](https://raw.githubusercontent.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/tree/main/Images/Dashboard-Image.png)
-- ![Interactive Dashboard](https://raw.githubusercontent.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/tree/main/Images/internet_usage_growth.png)
+- ![Internet Usage Trend](https://raw.githubusercontent.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/main/Images/Dashboard-Image.png)
+- ![Interactive Dashboard](https://raw.githubusercontent.com/RitzyKingS/Analyzing-global-internet-patterns-Datacamp-Competition-/main/Images/internet_usage_growth.png)
 
 🔗 **Solution provided via DataCamp challenge.**
 
